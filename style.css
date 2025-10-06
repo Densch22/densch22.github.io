@@ -1,0 +1,124 @@
+
+.home{
+    text-align: center;
+    padding-top: 10px;
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.head{
+    text-align: center;
+    padding-top: 1%;
+}
+.about{
+    text-align: center;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+.education{
+    text-align: center;
+    float: left;
+    width: 31%;
+    padding: 1%;
+    background-color: aliceblue;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 1%;
+
+}
+
+.achivements{
+    text-align: center;
+    float: left;
+    width: 48%;
+    padding: 1%;
+    background-color: aliceblue;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 1%;
+}
+
+.experience{
+    text-align: center;
+    float: left;
+    width: 48%;
+    padding: 1%;
+    background-color: aliceblue;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 1%;
+}
+
+.blogs{
+    text-align: center;
+    float: left;
+    width: 48%;
+    padding: 1%;
+    background-color: aliceblue;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 1%;
+}
+
+.blogs2{
+    text-align: center;
+    float:right;
+    width: 15%;
+    padding: 1%;
+    background-color: royalblue;
+    border: 3px solid black;
+    box-sizing: border-box;
+    margin: 1%;
+}
+
+.blogs2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.copy{
+    color: white;
+    font-size: 8px;
+    top: 50px;
+    left: 1%;
+    position: absolute;
+    z-index: 1;
+    display: flex;
+}
+
+.links{
+    display: flex;
+    align-items:center;
+    justify-content:end;
+    width: 100%;
+    height: 140px;
+    padding: 1%;
+    background-color: navy;
+    box-sizing: border-box;
+    color: white;
+    position: relative;
+}
+
+.links img{
+    width: 100px;
+    height: 100px;
+    padding: 1%;
+}
+
+.links a{
+    padding: 1%;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: navy;
+    padding: 10px;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+
+}
